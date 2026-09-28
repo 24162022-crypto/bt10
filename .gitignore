@@ -22,3 +22,7 @@ Thumbs.db
 
 # Local config
 .env
+
+# Build logs
+buildlog.txt
+
